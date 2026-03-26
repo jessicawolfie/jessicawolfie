@@ -43,17 +43,6 @@ Android Developer specialized in building modern, scalable mobile applications u
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jessicawolfie&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicawolfie&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🌍 Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/jessica-cafezeiro/" target="_blank">
