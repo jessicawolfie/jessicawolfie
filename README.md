@@ -1,8 +1,9 @@
 # Hi, I'm Jessica 👋
 
-Android Developer building **data-driven mobile applications** with Kotlin and Jetpack Compose.
+Android Developer specialized in building intelligent, data-driven mobile applications using Kotlin and Jetpack Compose.
 
-Focused on creating scalable mobile architectures, reactive user experiences, and intelligent features powered by data.
+
+I design and implement scalable Android architectures - MVVM, Kotlin Flow, StateFlow, Room Database — with a focus on clean, maintainable code and high-performance user experiences. 
 
 🎓 BSc in Data Science & Artificial Intelligence @ SENAI CIMATEC  
 📍 Brazil  
