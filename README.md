@@ -2,7 +2,7 @@
 
 Android Developer specialized in building intelligent, data-driven mobile applications using Kotlin, Jetpack Compose and Kotlin Multiplatform (KMP).
 
-I design and implement scalable Android architectures - MVVM, Kotlin Flow, StateFlow, Room Database — with a focus on clean, maintainable code and high-performance user experiences. I'm also expanding into Kotlin Multiplatform (KMP) to share business logic across platforms.
+I design and implement scalable Android architectures, MVVM, Kotlin Flow, StateFlow, Room Database, with a focus on clean, maintainable code and high-performance user experiences. I'm also expanding into Kotlin Multiplatform (KMP) to share business logic across platforms.
 
 🎓 BSc in Data Science & Artificial Intelligence @ SENAI CIMATEC  
 📍 Brazil
